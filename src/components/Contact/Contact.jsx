@@ -38,8 +38,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                123 Main Street, Anytown, USA, 12345
-
+                  123 Main Street, Anytown, USA, 12345
                 </div>
               </div>
 
@@ -61,8 +60,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                +1 234-567-8901
-
+                  +1 234-567-8901
                 </div>
               </div>
 
@@ -84,7 +82,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                info@example.com
+                  info@example.com
                 </div>
               </div>
             </div>
